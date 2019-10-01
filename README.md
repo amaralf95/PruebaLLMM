@@ -12,7 +12,14 @@ _Qué **alegria** ,qué **alboroto** , otro perrito piloto_
   * Punto 2a
   * Punto 2b
   
+  
   ![Markdown Logo](austin.png)
+  
+Pros | Contras
+------------ | -------------
+Incalculables | Error404
+Infinitos | Error404  
+ 
+  
 
-  
-  
+
